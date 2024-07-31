@@ -1004,7 +1004,7 @@ padding-top: 10px;
                    display: flex;
                    align-items: center;
                   gap: 30px;
-                  margin-left: 10px;
+                  margin-left: -15px;
                    button{
                        width: 175px;
            height: 53px;
@@ -1450,6 +1450,9 @@ border-radius: 8px;
 border: 0px solid #DEDEDE
 
                 }
+                img{
+                    margin-left: -15px;
+                }
                 p{
                     font-family: Poppins;
 font-size: 16px;
@@ -1736,7 +1739,7 @@ color: #252B42;
     .container{
         max-width: 411px;
         margin: 0 auto;
-        padding: 0 30px;
+        padding: 0 20px;
     } 
     .Compannies-section{
         padding-top: 100px;
@@ -1748,7 +1751,7 @@ left: 223px;
 gap: 0px;
 border-radius: 32px;
 background-color: #02897A;
-margin-left: -10px;
+margin-left: -15px;
 display: flex;
 flex-direction: column;
 align-items: center;
@@ -1904,7 +1907,7 @@ color: #FFFFFF;
                 }
                 p{
                     font-family: Poppins;
-font-size: 16px;
+font-size: 12px;
 font-weight: 400;
 line-height: 30px;
 color: #22343D;
